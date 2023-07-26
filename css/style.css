@@ -395,6 +395,13 @@ ol.type li a:hover {
 	opacity: 0;
 	transition: all 0.5s;
 }
+.hover-bg .video {
+	text-align: center;
+	margin: 0 auto;
+	height: 100%;
+	width: 100%;
+	transition: all 0.5s;
+}
 .hover-bg .hover-text>h4 {
 	opacity: 0;
 	color: #fff;
